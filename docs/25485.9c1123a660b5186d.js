@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSistemaDeMatriculas=self.webpackChunkSistemaDeMatriculas||[]).push([[25485],{25485:(a,u,e)=>{e.r(u),e.d(u,{default:()=>s});const s=[]}}]);

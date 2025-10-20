@@ -1,0 +1,18 @@
+{
+  "remoteServiceBaseUrl": "https://www.upgrade-tecnologia-educacional.com:9906",
+  "appBaseUrl": "https://www.upgrade-tecnologia-educacional.com:7800",
+  "localeMappings": [
+    {
+      "from": "pt-BR",
+      "to": "pt"
+    },
+    {
+      "from": "zh-CN",
+      "to": "zh"
+    },
+    {
+      "from": "he-IL",
+      "to": "he"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSistemaDeMatriculas=self.webpackChunkSistemaDeMatriculas||[]).push([[80126],{80126:(t,a,e)=>{e.r(a),e.d(a,{default:()=>s});const u=void 0,s=[[["yarim tun","tush payti","ertalab","kunduzi","kechqurun","kechasi"],u,u],u,["00:00","12:00",["06:00","11:00"],["11:00","18:00"],["18:00","22:00"],["22:00","06:00"]]]}}]);
